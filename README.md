@@ -15,17 +15,16 @@ Install the repo the same way you would any other.
 For assistance clonign the repo follow: https://docs.github.com/articles/cloning-a-repository
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+    ![Website screen shot1](assets/images/Screenshot%202024-04-10%20at%202.53.53 PM.png)
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+    ![Website screenshot2](./assets/images/Screenshot%202024-04-10%20at%202.54.08 PM.png)
 
 ## Credits
 
 Repo link: https://github.com/MmalcolmM/weather-api
+
+live website link: https://mmalcolmm.github.io/weather-api/
+
 
 
 ## License
